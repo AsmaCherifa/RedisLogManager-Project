@@ -1,0 +1,8 @@
+2024-10-10 10:01:25 | INFO | Utilisateur connecté | User: john_doe
+2024-10-10 10:02:30 | ERROR | Échec de l'authentification | User: jane_doe
+2024-10-10 10:05:45 | WARNING | Tentative de connexion suspecte | IP: 192.168.0.1
+2024-10-10 10:10:00 | INFO | Commande créée | OrderID: 12345
+2024-10-10 10:12:15 | ERROR | Erreur de traitement de paiement | OrderID: 12345
+2024-10-10 10:15:40 | INFO | Utilisateur déconnecté | User: john_doe
+2024-10-10 10:18:30 | INFO | Nouveau produit ajouté au panier | User: jane_doe, ProductID: 98765
+2024-10-10 10:20:00 | ERROR | Erreur de base de données | DB: orders
